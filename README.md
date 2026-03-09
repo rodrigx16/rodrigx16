@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm **Rodrigo**, a student of **Systems Analysis and Development** at Fatec and an IT technician. I'm passionate about technology, data analysis, and web development. Based in **Santos, SP**. 🌊
+I'm **Rodrigo**, a **Junior Developer** and IT technician graduated in **Systems Analysis and Development** at Fatec. I'm passionate about technology, data analysis, and web development. Based in **Santos, SP** 🌊. 🌊
 
 ## 🛠️ Tech Stack
 **Frontend**
