@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-Sou o **Rodrigo**, estudante de **Análise e Desenvolvimento de Sistemas** na Fatec e técnico em Informática. Apaixonado por tecnologia, análise de dados e desenvolvimento web. Baseado em **Santos, SP**
+I'm **Rodrigo**, a student of **Systems Analysis and Development** at Fatec and an IT technician. I'm passionate about technology, data analysis, and web development. Based in **Santos, SP**. 🌊
 
 ## 🛠️ Tech Stack
 **Front-end**
@@ -48,15 +48,7 @@ Sou o **Rodrigo**, estudante de **Análise e Desenvolvimento de Sistemas** na Fa
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rodrigx16&show_icons=true&theme=tokyonight" alt="Rodrigo's GitHub stats" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=rodrigx16&theme=tokyonight" alt="Rodrigo's GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigx16&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ## 🤝 Connect with Me
