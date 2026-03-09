@@ -53,7 +53,7 @@ I'm **Rodrigo**, a student of **Systems Analysis and Development** at Fatec and 
 
 ## 🤝 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/rodrigx16" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
