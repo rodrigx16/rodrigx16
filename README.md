@@ -51,7 +51,7 @@ I'm **Rodrigo**, a student of **Systems Analysis and Development** at Fatec and 
   <img src="https://streak-stats.demolab.com/?user=rodrigx16&theme=tokyonight" alt="Rodrigo's GitHub streak" />
 </p>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigx16&layout=compact&langs_count=6&theme=github_dark&border_color=30363d&title_color=58a6ff"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigx16&layout=compact&langs_count=6&theme=github_dark&border_color=30363d&title_color=58a6ff&cache_seconds=1800"/>
 
 ## 🤝 Connect with Me
 
