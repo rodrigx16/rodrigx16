@@ -1,97 +1,71 @@
-<div align="center">
+# Hi there, I'm Rodrigo 👋
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Rodrigo%20Cardoso&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Estudante%20ADS%20%7C%20Téc.%20Informática%20%7C%20Santos%2C%20SP&descAlignY=58&descColor=8b949e" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Developer;Always+learning+new+things" alt="Typing SVG" />
+</p>
 
-</div>
+## 🚀 About Me
 
----
+Sou o **Rodrigo**, estudante de **Análise e Desenvolvimento de Sistemas** na Fatec e técnico em Informática. Apaixonado por tecnologia, análise de dados e desenvolvimento web. Baseado em **Santos, SP**
 
-## 👋 Olá! Seja bem-vindo ao meu perfil
-
-Sou o **Rodrigo**, estudante de **Análise e Desenvolvimento de Sistemas** na Fatec e técnico em Informática. Apaixonado por tecnologia, análise de dados e desenvolvimento web. Baseado em **Santos, SP** 🌊
-
----
-
-## 🚀 Tecnologias & Ferramentas
+## 🛠️ Tech Stack
+**Front-end**
 
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
----
+**Back-end**
+
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+**DevOps & Ferramentas**
+
+<div align="center">
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rodrigx16&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d&title_color=58a6ff&icon_color=58a6ff"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigx16&layout=compact&langs_count=6&theme=github_dark&border_color=30363d&title_color=58a6ff"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rodrigx16&show_icons=true&theme=tokyonight" alt="Rodrigo's GitHub stats" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigx16&theme=github-dark-blue&border=30363d&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=rodrigx16&theme=tokyonight" alt="Rodrigo's GitHub streak" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigx16&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
-## 🌟 Projetos em Destaque
+## 🤝 Connect with Me
 
-### 🦠 [covid19benford](https://github.com/rodrigx16/covid19benford)
-> Análise estatística aplicando a **Lei de Benford** para detectar subnotificações e inconsistências nos dados de mortes por COVID-19 em diferentes países.
-> 
-> `JavaScript` · `Análise de Dados` · `Estatística`
-
----
-
-### 🏛️ [Ceos](https://github.com/rodrigx16/Ceos)
-> Projeto desenvolvido com HTML — um dos meus primeiros trabalhos públicos.
-> 
-> `HTML`
-
----
-
-### 📋 [Fila](https://github.com/rodrigx16/Fila)
-> Implementação da estrutura de dados **Fila** em Java — parte dos estudos de ADS na Fatec.
-> 
-> `Java` · `Estrutura de Dados`
-
----
-
-### ⚙️ [cicd](https://github.com/rodrigx16/cicd)
-> Atividade prática de **Engenharia de Software III** sobre integração e entrega contínua.
-> 
-> `HTML` · `CI/CD`
-
----
-
-## 📈 Atividade recente
-
-<!--START_SECTION:activity-->
-🚀 Em constante aprendizado — sempre commitando novos projetos da Fatec e experimentos pessoais.
-<!--END_SECTION:activity-->
-
----
-
-## 📫 Contato
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-rodrigx16-181717?style=for-the-badge&logo=github)](https://github.com/rodrigx16)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer"/>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rodrigx16&color=58a6ff&style=flat-square&label=Visitantes" />
-</div>
+<p align="left">
+  <a href="https://github.com/rodrigx16" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rodrigost-cardoso/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
