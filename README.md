@@ -1,9 +1,3 @@
-# Hi there, I'm Rodrigo 👋
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Developer;Always+learning+new+things" alt="Typing SVG" />
-</p>
-
 ##  About Me
 
 I'm **Rodrigo**, a **Junior Developer** and IT technician graduated in **Systems Analysis and Development** at Fatec. I'm passionate about technology, data analysis, and web development. Based in **Santos, SP** 🌊. 🌊
