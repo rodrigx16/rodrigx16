@@ -4,11 +4,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Developer;Always+learning+new+things" alt="Typing SVG" />
 </p>
 
-## 🚀 About Me
+##  About Me
 
 I'm **Rodrigo**, a **Junior Developer** and IT technician graduated in **Systems Analysis and Development** at Fatec. I'm passionate about technology, data analysis, and web development. Based in **Santos, SP** 🌊. 🌊
 
-## 🛠️ Tech Stack
+## Tech Stack
 **Frontend**
 
 <div align="center">
@@ -44,16 +44,6 @@ I'm **Rodrigo**, a **Junior Developer** and IT technician graduated in **Systems
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rodrigx16&theme=tokyonight" alt="Rodrigo's GitHub streak" />
-</p>
-
-<img height="160em" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=rodrigx16&layout=compact&langs_count=6&theme=github_dark&border_color=30363d&title_color=58a6ff"/>
-
-## 🤝 Connect with Me
 
 <p align="center">
   <a href="https://github.com/rodrigx16" target="_blank">
